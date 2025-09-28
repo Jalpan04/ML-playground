@@ -1,0 +1,8 @@
+streamlit
+numpy
+scikit-learn
+Pillow
+pygame
+matplotlib
+joblib
+streamlit-image-coordinates
