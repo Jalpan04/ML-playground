@@ -1,6 +1,3 @@
-import sys
-import os
-sys.path.append('helpers')
 
 # app_pix.py
 import streamlit as st
@@ -11,9 +8,8 @@ import joblib
 import os
 import time
 
-from game_of_life import get_next_generation
-from feature_extraction import get_features_from_cycle
-from patterns import CLASSIC_PATTERNS
+from helpers.game_of_life import get_next_generation
+from helpers.feature_extraction import get_features_from_cyclefrom patterns import CLASSIC_PATTERNS
 
 # --- App Configuration ---
 st.set_page_config(page_title="Cellular Automata Classifier", layout="wide")
