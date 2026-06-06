@@ -1,5 +1,7 @@
 # ML Playground & Interactive Demos
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/ML-playground) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/ML-playground) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 An interactive Streamlit launcher hub that manages a suite of machine learning and computer vision web applications. Through a centralized dashboard, users can spin up individual microservices, monitor active ports, and explore various interactive algorithms.
 
 ## Featured Applications
